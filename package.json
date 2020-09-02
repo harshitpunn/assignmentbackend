@@ -1,7 +1,7 @@
 {
-    "name": "analyticsbackend",
+    "name": "backendassignment",
     "version": "1.0.0",
-    "description": "analytics backend",
+    "description": "backendassignment",
     "main": "index.js",
     "scripts": {
         "test": "node rest ",
