@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a0b8b6e8874e941c91a",
-    "url": "/css/npm.vuetify.0fdc02b5.css"
+    "revision": "c9680e052c76d7cb3e18",
+    "url": "/css/npm.vuetify.c05b9b21.css"
   },
   {
-    "revision": "8929ec0846e145d3b755a3d1119e3e74",
+    "revision": "380d0a45e1e4cf3cde4d0722f27a3b59",
     "url": "/index.html"
   },
   {
-    "revision": "94a814dfbd34bf3ddc7c",
-    "url": "/js/app.a0beb4c5.js"
+    "revision": "9b65afa5c012723383c2",
+    "url": "/js/app.0f4957f8.js"
   },
   {
-    "revision": "01369c784468070f880c",
-    "url": "/js/chunk-2d0bce24.94cdcd41.js"
+    "revision": "773eb1d925a0e2e98620",
+    "url": "/js/chunk-2d0bce24.ace14946.js"
   },
   {
-    "revision": "b56fc32b0f9ff9e32903",
-    "url": "/js/chunk-a30827d0.2c0dc132.js"
+    "revision": "deaeed6030447f9ff20a",
+    "url": "/js/chunk-a30827d0.b72eb85d.js"
   },
   {
     "revision": "a737f2e73300b7191570",
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/npm.vuetify-loader.f7f2ee83.js"
   },
   {
-    "revision": "9a0b8b6e8874e941c91a",
+    "revision": "c9680e052c76d7cb3e18",
     "url": "/js/npm.vuetify.499d22a6.js"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/npm.webpack.0ea33058.js"
   },
   {
-    "revision": "80cbee528c80aae6dfca",
-    "url": "/js/runtime.d3eac557.js"
+    "revision": "6178d0c0aca517cdcb26",
+    "url": "/js/runtime.0d55d1fd.js"
   },
   {
     "revision": "c66b3ba466cfbfdb41564d229748c4b5",
