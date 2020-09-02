@@ -3,7 +3,6 @@ const cors = require('cors')
 const app = express();
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
-const mongose = require('mongoose');
 const path  =   require('path');
 
 app.use(cors());
@@ -25,7 +24,7 @@ app.use((req, res, next) => {
 
 app.use(express.static(path.join(__dirname,'public')))
 app.get('*', (req,res) =>{
-    res.sendFile(path.join(__dirname,'public/index.html'))
+    res.sendFile(path.join(__dirname,'dist/index.html'))
 })
 
 app.use((req, res, next) => {
